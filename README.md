@@ -54,10 +54,8 @@ I am the most active on <a href="https://discord.gg/dovias" target="blank">Disco
 <br>
 
 ## <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="39" height="39" /> My latest GitHub statistics
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dovias&show_icons=true&locale=en" alt="dovias" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dovias&" alt="dovias" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dovias&show_icons=true&locale=en&layout=compact" alt="dovias" />
 </div>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dovias&show_icons=true&locale=en&layout=compact" alt="dovias" />
-</p>
