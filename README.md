@@ -7,7 +7,7 @@
 <br>
 
 ## <a href="#-some-interesting-facts-about-me"><img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="38" height="38" /></a> Some interesting facts about me
-- I am currently studying 2nd year Bachelor's degree of **Software engineering** at [**VILNIUS TECH**](https://vilniustech.lt/studies/study-programmes/bachelor-and-integrated-study-programmes/317407?element_id=320665&sp_id=314&f_id=4&qualification=a%3A2%3A%7Bi%3A0%3Bs%3A1%3A%22B%22%3Bi%3A1%3Bs%3A1%3A%22A%22%3B%7D) <img align="center" src="https://gist.githubusercontent.com/Dovias/d5aa40c48a1a2fb716caa69feb14e09e/raw/a17e9b42ac7cecea78460cf73f97afd1c51ed32c/vilnius-tech-logo.svg" alt="Vilnius TECH logo" height=15 width=15/>
+- I am currently on my way to study 3rd year Bachelor's degree of **Software engineering** at [**VILNIUS TECH**](https://vilniustech.lt/studies/study-programmes/bachelor-and-integrated-study-programmes/317407?element_id=320665&sp_id=314&f_id=4&qualification=a%3A2%3A%7Bi%3A0%3Bs%3A1%3A%22B%22%3Bi%3A1%3Bs%3A1%3A%22A%22%3B%7D) <img align="center" src="https://gist.githubusercontent.com/Dovias/d5aa40c48a1a2fb716caa69feb14e09e/raw/a17e9b42ac7cecea78460cf73f97afd1c51ed32c/vilnius-tech-logo.svg" alt="Vilnius TECH logo" height=15 width=15/>
 - Many of my projects are available here! In case you forgot where [you are](https://github.com/Dovias)...
 - Fun fact, I recently switched from **Windows** to **GNU/Linux** just to force me to get more myself into CLI stuff. [Seems good so far...](https://www.youtube.com/watch?v=5cUNsYWkc3U)
 
