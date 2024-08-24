@@ -1,5 +1,5 @@
 <h1 align="center">Greetings <a href="#greetings--my-name-is-dovidas"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></a>, My name is Dovidas</h1>
-<p align="center">I am a passionate 20 year old future software developer from Vilnius, Lithuania 🇱🇹</p>
+<p align="center">I am a passionate 21 year old future software developer from Vilnius, Lithuania 🇱🇹</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dovias&label=Profile%20views&color=0e75b6&style=flat" alt="Dovias's profile view count" />
   <img src="https://img.shields.io/github/followers/Dovias?label=Followers&logo=Github" alt="Dovias's follower count"/>
