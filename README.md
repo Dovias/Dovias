@@ -17,7 +17,11 @@ I am the most active on <a href="https://discord.com/" target="blank">Discord <i
 
 ## <a href="#-my-latest-github-statistics"><img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="39" height="39" /></a> My latest GitHub statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dovias&show_icons=true&locale=en" alt="dovias" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dovias&" alt="dovias" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dovias&show_icons=true&locale=en" alt="dovias" />
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dovias&show_icons=true&locale=en&layout=compact" alt="dovias" />
 </div>
