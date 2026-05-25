@@ -110,4 +110,4 @@
 ))
 #fill
 #line
-*About me.* I am a software engineering student with hands-on experience building backend systems, as well as full-stack web applications. I enjoy working across the stack, developing reliable, maintainable software systems. Being passionate about software architecture, clean code, and modern CI/CD workflows, I am eager to apply my experience to various challenges in the future.
+*About me.* I am a software engineering student with hands-on experience building backend systems, as well as full-stack web applications. I enjoy working across the stack, developing reliable, maintainable software systems. I am currently focusing entirely on professional industry experience and available for immediate, *full-time employment*.
