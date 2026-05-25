@@ -1,4 +1,4 @@
-name: Compile Resume
+name: Resume
 on:
   push:
     branches: [ main ]
