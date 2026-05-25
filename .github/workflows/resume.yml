@@ -20,7 +20,7 @@ jobs:
         run: typst compile resume/src/document.typ resume/output/resume.pdf
 
       - name: Upload PDF Artifact
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: resume
           path: resume/output/resume.pdf
