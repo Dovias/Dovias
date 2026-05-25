@@ -45,7 +45,7 @@
     #[
       #set image(height: 1em)
 
-      #let icon(path) = box[#image(path)]
+      #let icon(path) = box[#image("assets/icons/" + path + ".svg")]
 
       #let https(destination) = link("https://" + destination)[#destination]
       #let mailto(destination) = link("mailto:" + destination)[#destination]
@@ -54,9 +54,9 @@
         columns: 2,
         gutter: 0.35em,
         align: horizon,
-        icon("../icons/linkedin.svg"), https("linkedin.com/in/dovidas-zablockis"),
-        icon("../icons/github.svg"), https("github.com/dovias"),
-        icon("../icons/envelope.svg"), mailto("dovio@proton.me") 
+        icon("linkedin"), https("linkedin.com/in/dovidas-zablockis"),
+        icon("github"), https("github.com/dovias"),
+        icon("envelope"), mailto("dovio@proton.me") 
       )
     ]
   ],
