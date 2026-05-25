@@ -2,7 +2,7 @@
 <p align="center">I am a passionate future software developer from Vilnius, Lithuania 🇱🇹</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dovias&label=Profile%20views&color=0e75b6&style=flat" alt="Dovias's profile view count" />
-  <a href="https://github.com/Dovias/Dovias/releases/download/1.0/dovidas-zablockis-resume.pdf"><img src="https://img.shields.io/badge/pdf-resume-red.svg" /></a>
+  <a href="https://github.com/Dovias/Dovias/releases/download/1.1/dovidas-zablockis-resume.pdf"><img src="https://img.shields.io/badge/pdf-resume-red.svg" /></a>
   <img src="https://img.shields.io/github/followers/Dovias?label=Followers&logo=Github" alt="Dovias's follower count"/>
 </div>
 <br>
