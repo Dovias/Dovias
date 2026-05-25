@@ -54,9 +54,9 @@
         columns: 2,
         gutter: 0.35em,
         align: horizon,
-        icon("assets/linkedin.svg"), https("linkedin.com/in/dovidas-zablockis"),
-        icon("assets/github.svg"), https("github.com/dovias"),
-        icon("assets/envelope.svg"), mailto("dovio@proton.me") 
+        icon("../icons/linkedin.svg"), https("linkedin.com/in/dovidas-zablockis"),
+        icon("../icons/github.svg"), https("github.com/dovias"),
+        icon("../icons/envelope.svg"), mailto("dovio@proton.me") 
       )
     ]
   ],
