@@ -14,7 +14,7 @@ jobs:
         uses: typst-community/setup-typst@v5
 
       - name: Create Output Directory
-        run: mkdir output
+        run: mkdir resume/output
 
       - name: Compile PDF
         run: typst compile resume/src/document.typ resume/output/resume.pdf
