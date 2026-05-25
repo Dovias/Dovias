@@ -1,6 +1,5 @@
 #import "@preview/zebra:0.1.0": qrcode
 
-#set text(font: "Source Serif 4")
 #set list(indent: 0.5em)
 
 #show heading: set block(spacing: 1em)
