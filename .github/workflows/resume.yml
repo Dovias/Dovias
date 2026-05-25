@@ -1,0 +1,25 @@
+name: Compile Resume
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: chiyadev/setup-typst@v1
+        with:
+          version: 'latest'
+
+      - name: Compile PDF
+        run: typst compile resume/src/document.typ output/resume.pdf
+
+      - name: Upload PDF Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: output/resume.pdf
