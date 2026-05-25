@@ -6,6 +6,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: resume
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
@@ -13,8 +16,11 @@ jobs:
       - name: Setup Typst
         uses: typst-community/setup-typst@v5
 
+      - name: Create Output Directory
+        run: mkdir output
+
       - name: Compile PDF
-        run: typst compile resume/src/document.typ output/resume.pdf
+        run: typst compile src/document.typ output/resume.pdf
 
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
