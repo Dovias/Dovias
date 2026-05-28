@@ -99,8 +99,8 @@
 == Skills
   - Communication: *English (C1)*, *Lithuanian (native)*
   - Languages: *Java*, *C\#*, *PHP*, *JavaScript/TypeScript*, *SQL*, *Bash*, *X++*
-  - Frameworks: *Spring Boot*, *.NET*, *Laravel*, *React.js*, *Vue.js*, *Astro*,
-  - Tools: *Docker*, *Git*, *GitHub*, *GitLab*, *Jenkins*, *Linux*, *Maven*, *Gradle*
+  - Frameworks: *Spring*, *.NET*, *Laravel*, *React.js*, *Vue.js*, *Astro*,
+  - Tools: *Linux*, *Docker*, *Git*, *Gradle*, *Maven*, *Jenkins*,  
 
 == Education
 #entry((
