@@ -90,9 +90,9 @@
   location: "Accenture Baltics, Vilnius",
   duration: [#period(year: 2023, month: 7, day: 1) -- #period(year: 2023, month: 9, day: 1)
   ],
-  title: link("https://github.com/Dovias/dovias/blob/main/certificates/accenture.pdf")[Full-stack application development internship]
+  title: link("https://github.com/Dovias/dovias/blob/main/certificates/accenture.pdf")[Java/Software engineering internship]
 ))[
-  - Developed *RESTful* backend services for a movie search application using *Java*, *Spring*, and *Jakarta*.
+  - Developed *RESTful* backend services for a movie search application using *Java*, *Spring*, and *PostgreSQL*.
   - Authored clean, semantic front-end code using vanilla *JavaScript*, *HTML*, and *CSS*.
   - Participated in a *CTF* hackathon focused on web security and applied common vulnerability exploitation techniques in practical challenges.
 ]
